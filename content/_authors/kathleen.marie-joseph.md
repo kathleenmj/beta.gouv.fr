@@ -4,7 +4,7 @@ role: Intrapreneuse
 domaine: Intraprenariat
 missions:
   - start: 2020-02-01
-    end: 2021-12-31
+    end: 2022-12-12
     status: admin
     employer: pole-emploi
 avatar: /img/authors/kathleen.marie-joseph.jpg
